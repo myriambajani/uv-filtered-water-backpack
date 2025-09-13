@@ -18,6 +18,7 @@ This project aligns with **United Nations Sustainable Development Goal 6: Clean 
 - Ensure the design is **affordable** (under $50) and **sustainable**.  
 - Make the system **lightweight and portable** for everyday and emergency use.  
 
-## References
-See full citations in [brochure.pdf](./brochure.pdf).  
+## Repo Structure
+- [prototype_picture.png](./prototype_picture.png) – Photo of the UV AquaPack prototype
+- [brochure.pdf](./brochure.pdf) – Full project brochure with references
 
